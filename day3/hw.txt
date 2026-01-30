@@ -1,0 +1,4 @@
+wap in java where using wrapper vlass we will talingainput as float and printign it throught int
+\a/t\a/-
+ap in java where wil;l will be inplement static and insrtance methos through user input data calling]\]
+wap in java where will be using concept od inner and outer class
