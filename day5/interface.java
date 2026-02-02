@@ -18,4 +18,4 @@ public class InterfaceExample{
     }
 }
 
-// write a program in java to implement interface to solve the diagramm problem
+// write a program in java to implement interface to solve the diamonnd  problem
