@@ -1,4 +1,4 @@
-//wrute a program where you will be using final class and final method and feinal variable  within a sinegle program
+//write a program where you will be using final class and final method and feinal variable  within a sinegle program
 
 final class SecurityManager {
     void authenticate() {
