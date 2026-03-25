@@ -1,0 +1,54 @@
+action(connection manaager)
+dao dao.class(processing)
+	dao,implementation(binding)(just a bucket)
+manager manager.class(checks data)(filteration)
+	manager.implementatiom(hiding)(jitna chahiyr utna do) class file ko
+pojo
+mapping karta hai roll -> roll_id
+db
+
+the full process is vice-versa
+
+noise
+name - abc@gmail.com
+email -  abc@gmail.com
+address = abc@gmail.com
+
+query stirng ki thorugh as line pura deta hai ru ke liye
+
+prepared statement
+device manager letitng system know preparde system isko aise dbms ki statement ki tarach likhi dekho this collaboaratiom
+jdbc 
+2
+3 
+difference is the secuity layer
+radio and calcualtor --- no dependecy
+
+
+
+
+transaction
+
+no loss of data
+
+acknolwlodge ab tak naa jaye time out error 
+confirmation keliye acknowledgement
+debt hua paise agar timeout hua toh wapas credit ho jayega
+
+
+username and paswrof galt hai -> error
+
+sql exception -> 
+
+
+delete query exception handle  sahi sai
+sof delte vs hard delete
+
+
+trsaction pacdded by trigger(1 or 0) if any one goes wrong last trigger sai rollback
+
+
+
+
+
+
